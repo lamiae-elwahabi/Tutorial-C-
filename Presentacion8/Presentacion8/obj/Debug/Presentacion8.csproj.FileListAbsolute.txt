@@ -1,0 +1,6 @@
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion8\Presentacion8\obj\Debug\Presentacion8.csprojResolveAssemblyReference.cache
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion8\Presentacion8\bin\Debug\Presentacion8.exe.config
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion8\Presentacion8\bin\Debug\Presentacion8.exe
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion8\Presentacion8\bin\Debug\Presentacion8.pdb
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion8\Presentacion8\obj\Debug\Presentacion8.exe
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion8\Presentacion8\obj\Debug\Presentacion8.pdb

@@ -1,0 +1,6 @@
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion10\Presentacion10\obj\Debug\Presentacion10.csprojResolveAssemblyReference.cache
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion10\Presentacion10\bin\Debug\Presentacion10.exe.config
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion10\Presentacion10\bin\Debug\Presentacion10.exe
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion10\Presentacion10\bin\Debug\Presentacion10.pdb
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion10\Presentacion10\obj\Debug\Presentacion10.exe
+c:\users\lamiae\documents\visual studio 2017\Projects\Presentacion10\Presentacion10\obj\Debug\Presentacion10.pdb
